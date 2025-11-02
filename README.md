@@ -29,7 +29,7 @@ This mini-project demonstrates the use of basic Java concepts such as loops, con
 ## 🏁 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissor-java.git
+   git clone https://github.com/your-username/Rock_Paper_Scissor_Game.git
 
 ---
 
